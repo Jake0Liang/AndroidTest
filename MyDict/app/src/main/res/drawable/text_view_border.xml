@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--@80开头表示透明-->
+    <stroke android:width="1dip" android:color="#63B8FF" />
+    <!--stroke设置边框宽度，颜色值-->
+    <corners android:topLeftRadius="2dp"
+        android:topRightRadius="2dp"
+        android:bottomRightRadius="2dp"
+        android:bottomLeftRadius="2dp"/>
+    <!--corners设置圆角-->
+</shape>
